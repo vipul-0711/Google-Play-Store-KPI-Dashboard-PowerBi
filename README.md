@@ -111,5 +111,6 @@ Google-Play-Store-App-Insights-Dashboard/
 ##  Outcome
 
 This dashboard provides an executive-level overview of app performance, enabling product managers, developers, and business teams to quickly identify successful app categories, monitor key metrics, and make informed decisions.
-<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/e42f9418-3aec-439f-8398-34a02677b6b7" />
+<img width="1367" height="752" alt="Screenshot 2026-07-25 115001" src="https://github.com/user-attachments/assets/a77125e4-4fe1-4bcb-9b7c-5f8ee5d5ddb8" />
+
 
